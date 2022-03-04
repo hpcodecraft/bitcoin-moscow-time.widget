@@ -6,5 +6,5 @@ This widget is meant to be used with [Übersicht](http://tracesof.net/uebersicht
 
 A widget showing the Bitcoin Moscow time:
 
-- As single digital when only one currency is selected
+- As single digit when only one currency is selected
 - As list of conversion rates when multiple currencies are selected
